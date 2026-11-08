@@ -1,0 +1,7 @@
+﻿{
+  "name": "dsh-magpie-demo",
+  "version": "1.0.0",
+  "description": "Magpie duty demo",
+  "scripts": { "test": "node calc.test.js" },
+  "license": "MIT"
+}
